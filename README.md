@@ -4,7 +4,7 @@ A modern React component library built with TypeScript, TailwindCSS, and Storybo
 
 ## 🚀 Live Demo
 
-- *Preview Link*: [Your Deployed Storybook URL]
+- *Preview Link*: https://react-component-assignment-797j.vercel.app/
 - *Repository*: https://github.com/princi-2306/ReactComponentAssignment
 
 ## 📋 Components Overview
