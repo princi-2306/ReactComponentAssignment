@@ -49,9 +49,7 @@ A powerful data table component with sorting and selection capabilities.
 
 react-components-assignment/
 ├── src/
-
 │   ├── components/
-
 │   │   ├── InputField/
 
 │   │   │   ├── InputField.tsx
