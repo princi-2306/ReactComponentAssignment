@@ -52,36 +52,36 @@ react-components-assignment/ <br>
 │   ├── components/ <br>
 │   │   ├── InputField/ <br>
 │   │   │   ├── InputField.tsx <br>
-│   │   │   ├── InputField.types.ts
-│   │   │   ├── InputField.test.tsx
-│   │   │   └── index.ts
-│   │   ├── DataTable/
-│   │   │   ├── DataTable.tsx
-│   │   │   ├── DataTable.types.ts
-│   │   │   ├── DataTable.test.tsx
-│   │   │   └── index.ts
-│   │   └── index.ts
-│   ├── stories/
-│   │   ├── InputField.stories.tsx
-│   │   └── DataTable.stories.tsx
-│   ├── hooks/
-│   │   └── useTheme.ts
-│   ├── utils/
-│   │   └── cn.ts
-│   └── styles/
-│       └── globals.css
-├── .storybook/
-│   ├── main.ts
-│   ├── preview.ts
-│   └── preview-head.html
-├── public/
-├── tests/
-│   └── setup.ts
-├── package.json
-├── tailwind.config.js
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
+│   │   │   ├── InputField.types.ts <br>
+│   │   │   ├── InputField.test.tsx <br>
+│   │   │   └── index.ts <br>
+│   │   ├── DataTable/ <br>
+│   │   │   ├── DataTable.tsx <br>
+│   │   │   ├── DataTable.types.ts <br>
+│   │   │   ├── DataTable.test.tsx <br>
+│   │   │   └── index.ts <br>
+│   │   └── index.ts <br>
+│   ├── stories/ <br>
+│   │   ├── InputField.stories.tsx <br>
+│   │   └── DataTable.stories.tsx <br>
+│   ├── hooks/ <br>
+│   │   └── useTheme.ts <br>
+│   ├── utils/ <br>
+│   │   └── cn.ts <br>
+│   └── styles/ <br>
+│       └── globals.css <br>
+├── .storybook/ <br>
+│   ├── main.ts <br>
+│   ├── preview.ts <br>
+│   └── preview-head.html <br>
+├── public/ <br>
+├── tests/ <br>
+│   └── setup.ts <br>
+├── package.json <br>
+├── tailwind.config.js <br>
+├── tsconfig.json <br>
+├── vite.config.ts <br>
+└── README.md <br>
 
 
 ## 🚦 Quick Start
