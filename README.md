@@ -47,12 +47,11 @@ A powerful data table component with sorting and selection capabilities.
 ## 📁 Project Structure
 
 
-react-components-assignment/
-├── src/
-│   ├── components/
-│   │   ├── InputField/
-
-│   │   │   ├── InputField.tsx
+react-components-assignment/ <br>
+├── src/ <br>
+│   ├── components/ <br>
+│   │   ├── InputField/ <br>
+│   │   │   ├── InputField.tsx <br>
 │   │   │   ├── InputField.types.ts
 │   │   │   ├── InputField.test.tsx
 │   │   │   └── index.ts
